@@ -1,5 +1,7 @@
 class MyClass{
 	public static void main(String args[]){
-		System.out.prinyln("Hello java");	
+		System.out.println("Hello java");	
 	}
 }
+
+3rd line is wrong. i correct it
